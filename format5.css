@@ -1,0 +1,62 @@
+.container{
+	display:flex;
+}
+.box1{
+	width: 300px;
+	height: 300px;
+	background-color: #6b8e23;
+	padding: 20px;
+	border: 10px #f0e68c solid;
+	margin: 20px;
+	border-radius: 20px;
+}
+
+.box2{
+	width: 300px;
+	height: 300px;
+	background-color: #456de2;
+	padding: 20px;
+	border: 10px #f0e68c solid;
+	margin: 20px;
+	border-radius: 20px;
+}
+
+p.setOverflow {
+	overflow: scroll;
+	height: 70%;
+	width: 70%;
+	background-color: #ee6c4d;
+}
+
+h1{
+	color: white;
+}
+
+.box3{
+	width: 300px;
+	height: 300px;
+	padding: 20px;
+	border: 10px #f0e68c solid;
+	margin: 20px;
+	border-radius: 20px;
+}
+
+.box4{
+	
+	height: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 125px;
+	padding-right: 125px;
+	border: 3px #f0e68c solid;
+	background-color: #f4a460;
+	border-radius: 20px
+	
+	
+}
+
+#p1{
+	background-color: #98c1d9;
+	height: 70%;
+	width: 70%;
+}

@@ -1,0 +1,122 @@
+body {
+    color: #333;
+    line-height: 1.6;
+}
+
+
+.parallax {
+    height: 400px;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    display: flex;
+}
+
+
+.student-image {
+    background-image: url('students.png');
+    height: 750px;
+    width: 100%;
+}
+
+.background-contrast {
+    background-image: url('background.jpg');
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    height: 75vh;
+}
+
+
+.content {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    background-color: #5185A6;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    color:white;
+}
+
+.floating-bar {
+    width: 60%;
+    padding: 20px;
+    background: #524d4d9f;
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+.about-me a {
+    color: #0066cc;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+span{
+    background-color: #ffffff;
+    color:black;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.exercises-content {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    text-align: center;
+}
+
+.exercise-box {
+    width: 35%;
+    padding: 15px;
+    background: #524d4d9f;
+    background-color: #524d4d9f;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.exercise-link {
+    display: block;
+    color: #333;
+    text-decoration: none;
+    padding: 5px 0;
+    background: #524d4d9f;
+}
+
+.exercise-link:link {
+    color: #0066cc;
+}
+
+.exercise-link:visited {
+    color: white;
+}
+
+.exercise-link:hover {
+    color: #ff4500;
+}
+
+.exercise-link:active {
+    color: #ff0000;
+}
+h2{
+    text-align: center;
+}
+
+h1{ 
+    color:white;
+    font-size: 60px;
+    padding-left: 60px;
+    padding-right: 30px;
+    font-family: 'Courier New', monospace;
+}
+
+.footer p{
+    text-align: center;
+}
+
